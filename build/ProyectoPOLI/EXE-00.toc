@@ -1,9 +1,9 @@
 ('C:\\Users\\ALGORITMOS DE DATOS\\Desktop\\Clase #1\\dist\\ProyectoPOLI.exe',
- True,
+ False,
  False,
  False,
  'C:\\Users\\ALGORITMOS DE '
- 'DATOS\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ 'DATOS\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
  False,
  False,
@@ -279,10 +279,10 @@
  [],
  False,
  False,
- 1769608846,
- [('run.exe',
+ 1769609095,
+ [('runw.exe',
    'C:\\Users\\ALGORITMOS DE '
-   'DATOS\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'DATOS\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'C:\\Users\\ALGORITMOS DE '
  'DATOS\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll')
